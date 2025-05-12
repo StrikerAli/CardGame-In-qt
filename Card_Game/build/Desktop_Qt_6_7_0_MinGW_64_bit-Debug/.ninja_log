@@ -1,0 +1,16 @@
+# ninja log v5
+6	908	7373972853084622	Card_Game_autogen/timestamp	f408267201dd6071
+6	908	7373972853084622	Card_Game_autogen/mocs_compilation.cpp	f408267201dd6071
+6	908	7373972853084622	C:/Users/aalia/OneDrive/Documents/Card_Game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Card_Game_autogen/timestamp	f408267201dd6071
+1268	4660	7373972891564632	CMakeFiles/Card_Game.dir/main.cpp.obj	3ee893611f41a579
+1274	10277	7373972947724615	CMakeFiles/Card_Game.dir/Card_Game_autogen/EWIEGA46WW/qrc_resources.cpp.obj	e459c01610798fd
+6	908	7373972853084622	C:/Users/aalia/OneDrive/Documents/Card_Game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Card_Game_autogen/mocs_compilation.cpp	f408267201dd6071
+1252	4761	7373972892584609	CMakeFiles/Card_Game.dir/Card_Game_autogen/mocs_compilation.cpp.obj	fcfc1bcd39a435c8
+10277	10703	7373972951954952	Card_Game.exe	9f2ecda8394a2bde
+1257	4941	7373972894354976	CMakeFiles/Card_Game.dir/mainwindow.cpp.obj	16155a98fe074da4
+0	35	0	CMakeFiles/clean.additional	baedbe210acaa455
+36	48	0	clean	577b940aee94fbd7
+908	1251	7373972857414641	Card_Game_autogen/EWIEGA46WW/qrc_resources.cpp	a44239759ac0f1ec
+908	1251	7373972857414641	C:/Users/aalia/OneDrive/Documents/Card_Game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Card_Game_autogen/EWIEGA46WW/qrc_resources.cpp	a44239759ac0f1ec
+1262	4308	7373972888044626	CMakeFiles/Card_Game.dir/deck.cpp.obj	dcbf3bdd1d266380
+1279	1500	7373972859944625	CMakeFiles/Card_Game.dir/card.cpp.obj	79370a108eaa211a
